@@ -1097,7 +1097,10 @@
       ? "Sign-in needs the site to be served over http. Run “npx http-server” in the project folder."
       : "Sign-in is still loading. Give it a second and try again.";
 
+  const SIGN_IN_ENABLED = false;
+
   function openAuthModal(mode = "signin") {
+    if (!SIGN_IN_ENABLED) return toast("Sign-in is coming soon. It's not available yet.");
     const ready = window.SlopAuth;
     openModal(`
       <div class="auth" id="authBox" data-mode="${mode}">

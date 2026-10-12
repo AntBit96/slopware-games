@@ -11,6 +11,12 @@ Browse it. Wishlist it. Create an account. Download… absolutely nothing. Yet.
 
 <br>
 
+[![Visit SlopWare](https://img.shields.io/badge/▶%20visit-slopware--games.app-b8f03a?style=for-the-badge&labelColor=111318)](https://www.slopware-games.app/)
+
+**🌐 [www.slopware-games.app](https://www.slopware-games.app/)**
+
+<br>
+
 ![Status](https://img.shields.io/badge/status-coming%20soon-b8f03a?style=for-the-badge&labelColor=111318)
 ![Downloads](https://img.shields.io/badge/downloads-0-f3e600?style=for-the-badge&labelColor=111318)
 ![Servers](https://img.shields.io/badge/servers-being%20fed-ff5d9e?style=for-the-badge&labelColor=111318)
